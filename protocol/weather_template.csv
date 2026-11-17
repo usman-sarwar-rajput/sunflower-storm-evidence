@@ -1,0 +1,1 @@
+site_id,timestamp_utc,available_at_utc,wind_speed_m_s,gust_m_s,wind_bearing_deg_true,rain_mm,pressure_hpa,light_w_m2,air_temperature_c,relative_humidity_pct,soil_moisture_fraction,sensor_quality_flag

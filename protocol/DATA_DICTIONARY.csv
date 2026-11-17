@@ -1,0 +1,24 @@
+file,column,unit,definition
+canopy_plot_observations.csv,date,local calendar date,Photograph observation date from canopy table
+canopy_plot_observations.csv,plot,identifier,Source field plot; interpret within date and study
+canopy_plot_observations.csv,treatment and block,identifier,Source experimental irrigation and block codes
+canopy_plot_observations.csv,cover_fraction,0 to 1,Fraction of overhead image classed as green plant pixels
+canopy_plot_observations.csv,cover_percent,percent,100 times cover_fraction
+canopy_plot_observations.csv,source_row,one-based row,Physical source CSV line
+station_daily_weather.csv,Precip,mm,Source daily station precipitation
+station_daily_weather.csv,AirTemp_Max,deg C,Source daily maximum air temperature
+station_daily_weather.csv,DlySolRad,MJ per m2,Source daily total solar radiation
+station_daily_weather.csv,WindRun_Tot,km per day,Source daily accumulated wind run
+station_daily_weather.csv,Source and Notes,text,Publisher flags and weather record comments
+juvenile_stem_angles.csv,time,hour index,Source relative experiment time; no storm alignment
+juvenile_stem_angles.csv,projected_stem_angle_deg,degree,Original projected stem angle
+juvenile_stem_angles.csv,absolute_hourly_change_deg,degree per hour,Absolute change across consecutive hour indices; blank for first observation per plant
+head_inclination_method_comparison.csv,year_location,identifier,Source year-location code; pairs plot with site-year
+head_inclination_method_comparison.csv,trig_angle,degree,Original trigonometric method angle
+head_inclination_method_comparison.csv,lm_angle,degree,Original linear model angle
+head_inclination_method_comparison.csv,trig_minus_lm_deg,degree,Trigonometric estimate minus linear model estimate
+hail_paired_plots.csv,change_percentage_points,percentage points,After minus before for the same plot
+five_period_summary.csv,canopy_days,count,Number of calendar days with observed canopy
+five_period_summary.csv,mean_canopy_percent,percent,Mean of observed date means; missing when none were observed
+five_period_summary.csv,rain_mm,mm,Total precipitation over all calendar days in phase
+five_period_summary.csv,head_angle_observations,count,Count of storm matched head angles; zero means not observed

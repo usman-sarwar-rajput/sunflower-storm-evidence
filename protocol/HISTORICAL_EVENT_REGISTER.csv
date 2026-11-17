@@ -1,0 +1,3 @@
+event_id,site,date_local,event_type,exact_onset_utc,evidence,role
+LIRF-2016-07-17,LIRF Greeley Colorado,2016-07-17,hail,,USDA field methodology,Other documented hail in same season
+LIRF-2016-08-19,LIRF Greeley Colorado,2016-08-19,hail,,USDA field methodology and crop log,Main comparison date

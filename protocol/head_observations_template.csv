@@ -1,0 +1,1 @@
+site_id,plot_id,plant_id,timestamp_utc,stage,head_bearing_deg_true,head_elevation_deg,stem_angle_deg,camera_frame_ids,angle_validation_flag,missing_reason

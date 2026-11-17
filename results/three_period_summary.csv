@@ -1,0 +1,4 @@
+phase,start,end,calendar_days,canopy_days,canopy_plot_observations,mean_canopy_percent,rain_mm,head_angle_observations
+before,2016-08-16,2016-08-18,3,1,48,82.53102083333333,0.0,0
+hail_day,2016-08-19,2016-08-19,1,0,0,,12.0,0
+after,2016-08-20,2016-08-22,3,0,0,,0.0,0

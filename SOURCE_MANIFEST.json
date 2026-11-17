@@ -1,0 +1,30 @@
+{
+  "Brooks_2023_S13_Data.xlsx": {
+    "sha256": "1257f4069f4fb600d0bddb616110772af28552dc43ad330c18aa3dea58a590b7",
+    "source": "https://doi.org/10.1371/journal.pbio.3002344.s025"
+  },
+  "Data Dictionary.csv": {
+    "sha256": "96722c1f7d66af655368d8945eb9ed32f2b0bc80ae097c89931dddc02711615e",
+    "source": "https://doi.org/10.15482/USDA.ADC/28586066.v2"
+  },
+  "LIRF Sunflower Methodology.txt": {
+    "sha256": "5cea5f58f088f0359de23b3e1aad7c2645a301e27e05327728fad0ef78fe6e65",
+    "source": "https://doi.org/10.15482/USDA.ADC/28586066.v2"
+  },
+  "LIRF Weather 2008-2016 Daily.csv": {
+    "sha256": "1bc5f2bba589ae551fc741501a85973c1bf1ce3965f1fee197c9ddbad1c3ccdd",
+    "source": "https://doi.org/10.15482/USDA.ADC/28586066.v2"
+  },
+  "Canopy Cover.csv": {
+    "sha256": "08c918e6ae580f7635c8ce92020e9b1834b00d90ff03de0994b90f53355a9d41",
+    "source": "https://doi.org/10.15482/USDA.ADC/28586066.v2"
+  },
+  "Head_Inclination.xlsx": {
+    "sha256": "ced94c82caa005dafba887786492d788d70b817b84d66513c41a6853911fbd8d",
+    "source": "https://doi.org/10.15482/USDA.ADC/27119340.v1"
+  },
+  "Crop Log.csv": {
+    "sha256": "53799eb315a5a3a32d2128b60a96c0d614544cfb8daf895ca073ae80d479ce9f",
+    "source": "https://doi.org/10.15482/USDA.ADC/28586066.v2"
+  }
+}

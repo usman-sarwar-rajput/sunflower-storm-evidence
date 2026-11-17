@@ -1,0 +1,28 @@
+{
+  "cover_records": 3882,
+  "weather_days": 3288,
+  "paired_plots": 48,
+  "before_mean_pct": 82.53102083333333,
+  "after_mean_pct": 50.086729166666665,
+  "paired_change_pp": -32.444291666666665,
+  "paired_decreased": 48,
+  "day_of_hail_rain_mm": 12.0,
+  "event_interval_change_rank_lowest": 1,
+  "season_consecutive_intervals": 12,
+  "head_rows": 514,
+  "head_mean_abs_difference_deg": 5.101129585844336,
+  "head_mean_difference_deg": 0.6015599099045186,
+  "stem_observations": 384,
+  "stem_mean_range_deg": 39.955499999999994,
+  "stem_median_hourly_change_deg": 1.990000000000002,
+  "storm_matched_head_observations": 0,
+  "forecast_status": "not estimable",
+  "validation": [
+    "Input hashes matched",
+    "Unique canopy date and plot keys",
+    "Unique weather dates",
+    "Both phase sets have disjoint dates",
+    "All 96 paired canopy values and dates checked against workbook CSV source rows",
+    "Stem timeline and 514 inclination records checked"
+  ]
+}

@@ -1,0 +1,1 @@
+event_id,storm_system_id,site_id,local_onset_utc,local_end_utc,gust_front_utc,first_rain_utc,severe_onset_utc,event_type,evidence_source,onset_uncertainty_minutes,verification_status
