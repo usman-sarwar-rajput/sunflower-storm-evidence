@@ -1,5 +1,11 @@
 # Sunflower Storm Research Professor Package
 
+## Updated five-stage canopy dataset
+
+[Download the cleaned canopy dataset ZIP](https://github.com/usman-sarwar-rajput/sunflower-storm-evidence/raw/refs/heads/main/Sunflower_Canopy_Cleaned_Dataset.zip). Extract it inside this repository to access `datasets/canopy_hailstorm_2016/README.md`, the data and the validator. The archive includes the full cleaned canopy and weather series, the four-date subset, source workbook, five-stage Excel/CSV tables, results, field documentation and integrity hashes.
+
+The [documented 2016 canopy release](Sunflower_Canopy_Cleaned_Dataset.zip) includes 192 source-checked observations, a five-stage table with plot identifiers, an Excel workbook, source attribution, validation code and checksums. **No storm-day canopy values are available; these data do not measure head movement or establish prediction.**
+
 Start with **papers/Sunflower_Storm_Evidence_Paper.docx**. This is a historical case study and evidence review, with reproducible results and a protocol for a future storm-warning experiment.
 
 ## Main finding
